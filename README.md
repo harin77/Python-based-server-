@@ -81,7 +81,7 @@ INSTALLATION & SETUP
 
 3. Start the server:
 
-   python server.py
+   python -m chat_server.server
 
 4. Server will start listening on:
 
