@@ -1,6 +1,5 @@
-============================
+
 PYTHON-BASED WEBSOCKET CHAT SERVER
-============================================================
 
 Author      : Harin (harin77)
 Repository  : https://github.com/harin77/Python-based-server-
