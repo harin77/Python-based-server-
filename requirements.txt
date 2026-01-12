@@ -1,4 +1,4 @@
-﻿absl-py==2.3.1
+absl-py==2.3.1
 aiohappyeyeballs==2.6.1
 aiohttp==3.13.3
 aiosignal==1.4.0
@@ -135,5 +135,6 @@ weasel==0.4.3
 Werkzeug==3.1.5
 wrapt==2.0.1
 yarl==1.22.0
-
-
+websockets==11.0.3
+PyJWT==2.8.0
+bcrypt==4.1.2
