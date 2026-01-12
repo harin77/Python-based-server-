@@ -42,26 +42,29 @@ TECHNOLOGIES USED
 - uuid
 - json
 - datetime
-
+  
 ------------------------------------------------------------
 FOLDER STRUCTURE
 ------------------------------------------------------------
 
 Python-based-server-/
-│
-├── server.py
-├── requirements.txt
-│
-├── database/
-│   ├── users.json
-│   ├── groups.json
-│   ├── messages.json
-│   └── backups/
-│       ├── users_backup.json
-│       ├── groups_backup.json
-│       └── messages_backup.json
-│
-└── README.txt
+|
++-- server.py
++-- requirements.txt
+|
++-- database/
+|   |
+|   +-- users.json
+|   +-- groups.json
+|   +-- messages.json
+|   |
+|   +-- backups/
+|       |
+|       +-- users_backup.json
+|       +-- groups_backup.json
+|       +-- messages_backup.json
+|
++-- README.txt
 
 ------------------------------------------------------------
 INSTALLATION & SETUP
