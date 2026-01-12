@@ -1,0 +1,72 @@
+{
+    "1765010896430pkaz": {
+        "id": "1765010896430pkaz",
+        "username": "suho",
+        "tag": "5765",
+        "handle": "suho#5765",
+        "password": "$2b$12$yxPvV6u2P4NomP6hrvrGaeOU2eL.hGJ4t4xkvpD57AM6pNM6GrfY.",
+        "created_at": "2025-12-06T08:48:16.735789+00:00",
+        "avatar_url": null,
+        "fcm_token": null
+    },
+    "6274d5aa-2914-4ace-9608-eb4acbac526e": {
+        "id": "6274d5aa-2914-4ace-9608-eb4acbac526e",
+        "username": "Alice",
+        "tag": "8090",
+        "handle": "Alice#8090",
+        "password": "$2b$12$OEbRRBzL2h610bsE2YTbWe9hEYGA.Ak1.VZAPQFW7H5Ug5OeZ6lha",
+        "created_at": 1765445899.6457033,
+        "avatar_url": null,
+        "fcm_token": null
+    },
+    "444696f9-3f3b-476b-8ecc-920d9f7119e2": {
+        "id": "444696f9-3f3b-476b-8ecc-920d9f7119e2",
+        "username": "Alice",
+        "tag": "6552",
+        "handle": "Alice#6552",
+        "password": "$2b$12$dfKkIk94vrUct1v6bpE70.mF4sb8qdbK5EMjVAeYwAw6Zg7yZaCHm",
+        "created_at": 1765446000.6350822,
+        "avatar_url": null,
+        "fcm_token": null
+    },
+    "054cf501-afa4-47ca-8a93-54fca89c9944": {
+        "id": "054cf501-afa4-47ca-8a93-54fca89c9944",
+        "username": "Bob",
+        "tag": "4786",
+        "handle": "Bob#4786",
+        "password": "$2b$12$w6jVqODtb6KxRf0oKYUPVOTKjXqDuhmdgLATq7MGZ5ZkHnT60OEy2",
+        "created_at": 1765446001.0381827,
+        "avatar_url": null,
+        "fcm_token": null
+    },
+    "ca0cfa12-3fb5-4179-b6cd-caaab2f84d90": {
+        "id": "ca0cfa12-3fb5-4179-b6cd-caaab2f84d90",
+        "username": "suho",
+        "tag": "4564",
+        "handle": "suho#4564",
+        "password": "$2b$12$dfMLrBegkg6XfUF8AqGAZOL8ThYQyQaojp.9jg1x1SJ5FvouRjMga",
+        "created_at": 1765780772.0835125,
+        "avatar_url": null,
+        "fcm_token": null
+    },
+    "09714efd-ca9d-42ac-b430-9f615949fa32": {
+        "id": "09714efd-ca9d-42ac-b430-9f615949fa32",
+        "username": "LULU",
+        "tag": "4957",
+        "handle": "LULU#4957",
+        "password": "$2b$12$e4iWQXKiRo7FnboSVDsSb.R9Khy7r3NcQjsTJRySQsCblthpN9dwS",
+        "created_at": 1765781236.9227045,
+        "avatar_url": null,
+        "fcm_token": null
+    },
+    "0afc23ed-b33c-4aaa-8a27-9712ee09bb03": {
+        "id": "0afc23ed-b33c-4aaa-8a27-9712ee09bb03",
+        "username": "prince",
+        "tag": "6819",
+        "handle": "prince#6819",
+        "password": "$2b$12$T3wUojEuDvLhuIa2D5h1QeIiFkpoN3NVAsr2sJm9qNtjsE7y9n.0W",
+        "created_at": 1765781268.586156,
+        "avatar_url": null,
+        "fcm_token": null
+    }
+}

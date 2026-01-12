@@ -1,0 +1,4 @@
+pip install websockets
+pip install bcrypt
+pip install aiohttp
+pip install requests

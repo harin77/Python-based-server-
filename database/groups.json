@@ -1,0 +1,52 @@
+{
+    "e5cd1586-3a2d-4edd-a5bc-03b16c077789": {
+        "id": "e5cd1586-3a2d-4edd-a5bc-03b16c077789",
+        "name": "test",
+        "type": "group",
+        "owner_id": "48ebca58-60fa-4daa-a412-2f24828ead31",
+        "join_code": "9F7FCB",
+        "members": {
+            "48ebca58-60fa-4daa-a412-2f24828ead31": {
+                "role": "owner",
+                "joined_at": 1765789236.3045046,
+                "muted": false
+            },
+            "1728f4da-c83a-4b01-93e3-08470f4b3d03": {
+                "role": "member",
+                "username": "lol",
+                "joined_at": 1765794436.7945776,
+                "muted": false
+            }
+        },
+        "pinned_message_id": "08f13bbc-e57d-43e0-ba34-5eb201684f8d"
+    },
+    "40951a92-7601-40f8-b334-8c8fbd91a6d1": {
+        "id": "40951a92-7601-40f8-b334-8c8fbd91a6d1",
+        "name": "hi",
+        "type": "group",
+        "owner_id": "48ebca58-60fa-4daa-a412-2f24828ead31",
+        "join_code": "03BE50",
+        "members": {
+            "48ebca58-60fa-4daa-a412-2f24828ead31": {
+                "role": "owner",
+                "joined_at": 1765791063.1116705,
+                "muted": false
+            }
+        }
+    },
+    "3c04dce1-22dd-4a53-9605-4c97f3a9d7e2": {
+        "id": "3c04dce1-22dd-4a53-9605-4c97f3a9d7e2",
+        "name": "testttt",
+        "type": "group",
+        "owner_id": "48ebca58-60fa-4daa-a412-2f24828ead31",
+        "join_code": "5FC1F0",
+        "members": {
+            "48ebca58-60fa-4daa-a412-2f24828ead31": {
+                "role": "owner",
+                "username": "suho",
+                "joined_at": 1768025734.683337,
+                "muted": false
+            }
+        }
+    }
+}

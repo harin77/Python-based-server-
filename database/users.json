@@ -1,0 +1,22 @@
+{
+    "48ebca58-60fa-4daa-a412-2f24828ead31": {
+        "id": "48ebca58-60fa-4daa-a412-2f24828ead31",
+        "username": "suho",
+        "tag": "9816",
+        "handle": "suho#9816",
+        "password": "$2b$12$aDvFlB6LnoPq.IOKpLTStOjJcEH16gdphFVR/6GdKS3sV.mOwrwe6",
+        "created_at": 1765788351.5576599,
+        "avatar": "48ebca58-60fa-4daa-a412-2f24828ead31.jpg",
+        "fcm_token": null
+    },
+    "1728f4da-c83a-4b01-93e3-08470f4b3d03": {
+        "id": "1728f4da-c83a-4b01-93e3-08470f4b3d03",
+        "username": "lol",
+        "tag": "5530",
+        "handle": "lol#5530",
+        "password": "$2b$12$iKinVGsOu4W6Z/5rpdo1eOoOj2C9TSghf8ef35fNwNovDF83XSjn2",
+        "created_at": 1765794368.413525,
+        "avatar": null,
+        "fcm_token": null
+    }
+}

@@ -1,0 +1,87 @@
+{
+    "e5cd1586-3a2d-4edd-a5bc-03b16c077789": [
+        {
+            "id": "023cbe74-86eb-41d5-af1a-dd0a822fd123",
+            "sender_id": "48ebca58-60fa-4daa-a412-2f24828ead31",
+            "content": "hi",
+            "type": "group",
+            "timestamp": 1765790125.2850063,
+            "reply_to": null,
+            "is_deleted": false,
+            "reactions": {}
+        },
+        {
+            "id": "1d2915da-cbe1-4843-bec5-3125089765ed",
+            "sender_id": "48ebca58-60fa-4daa-a412-2f24828ead31",
+            "content": "hi",
+            "type": "group",
+            "timestamp": 1765790417.9312742,
+            "reply_to": null,
+            "is_deleted": false,
+            "reactions": {}
+        },
+        {
+            "id": "fbc97726-7bed-4adb-9b97-197f7ae17a43",
+            "sender_id": "48ebca58-60fa-4daa-a412-2f24828ead31",
+            "content": "hi",
+            "type": "group",
+            "timestamp": 1765790428.212751,
+            "reply_to": null,
+            "is_deleted": false,
+            "reactions": {}
+        },
+        {
+            "id": "3e0768b5-35fc-4cc4-a93e-6cb1192f9df0",
+            "sender_id": "48ebca58-60fa-4daa-a412-2f24828ead31",
+            "content": "🚫 This message was deleted",
+            "type": "deleted",
+            "timestamp": 1765791193.1370566,
+            "reply_to": null,
+            "is_deleted": true,
+            "reactions": {}
+        },
+        {
+            "id": "45ee8265-196e-4ce6-b372-ad0f55a4566e",
+            "sender_id": "48ebca58-60fa-4daa-a412-2f24828ead31",
+            "content": "🚫 This message was deleted",
+            "type": "deleted",
+            "timestamp": 1765791792791,
+            "reply_to": "3e0768b5-35fc-4cc4-a93e-6cb1192f9df0",
+            "is_deleted": true,
+            "reactions": {},
+            "chat_id": "e5cd1586-3a2d-4edd-a5bc-03b16c077789"
+        }
+    ],
+    "40951a92-7601-40f8-b334-8c8fbd91a6d1": [
+        {
+            "id": "103fa1fd-8dd8-4a86-8c22-96b632d794ec",
+            "sender_id": "48ebca58-60fa-4daa-a412-2f24828ead31",
+            "content": "Hi",
+            "type": "group",
+            "timestamp": 1765791070.6217165,
+            "reply_to": null,
+            "is_deleted": false,
+            "reactions": {}
+        },
+        {
+            "id": "e907eba2-034d-44a3-a1e9-b8088b723410",
+            "sender_id": "48ebca58-60fa-4daa-a412-2f24828ead31",
+            "content": "Hi",
+            "type": "group",
+            "timestamp": 1765791215.6877294,
+            "reply_to": null,
+            "is_deleted": false,
+            "reactions": {}
+        },
+        {
+            "id": "dcc9bf8b-26f3-4849-9c48-c3ff29545820",
+            "sender_id": "48ebca58-60fa-4daa-a412-2f24828ead31",
+            "content": "hello",
+            "type": "group",
+            "timestamp": 1765791220.8580718,
+            "reply_to": null,
+            "is_deleted": false,
+            "reactions": {}
+        }
+    ]
+}

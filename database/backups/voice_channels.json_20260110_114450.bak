@@ -1,0 +1,51 @@
+{
+    "17654460012445207": {
+        "participants": {
+            "054cf501-afa4-47ca-8a93-54fca89c9944": {
+                "id": "054cf501-afa4-47ca-8a93-54fca89c9944",
+                "joined_at": 1765446001.269782,
+                "is_muted": false,
+                "is_speaking": true,
+                "raised_hand": false
+            }
+        }
+    },
+    "1765780828604o26y": {
+        "participants": {
+            "ca0cfa12-3fb5-4179-b6cd-caaab2f84d90": {
+                "id": "ca0cfa12-3fb5-4179-b6cd-caaab2f84d90",
+                "joined_at": 1765781346.9690087,
+                "is_muted": true,
+                "is_speaking": false,
+                "raised_hand": false
+            },
+            "0afc23ed-b33c-4aaa-8a27-9712ee09bb03": {
+                "id": "0afc23ed-b33c-4aaa-8a27-9712ee09bb03",
+                "joined_at": 1765781302.6612403,
+                "is_muted": false,
+                "is_speaking": true,
+                "raised_hand": false
+            },
+            "09714efd-ca9d-42ac-b430-9f615949fa32": {
+                "id": "09714efd-ca9d-42ac-b430-9f615949fa32",
+                "joined_at": 1765781306.0622559,
+                "is_muted": true,
+                "is_speaking": false,
+                "raised_hand": false
+            }
+        }
+    },
+    "e5cd1586-3a2d-4edd-a5bc-03b16c077789": {
+        "participants": {
+            "48ebca58-60fa-4daa-a412-2f24828ead31": {
+                "id": "48ebca58-60fa-4daa-a412-2f24828ead31",
+                "username": "suho",
+                "avatar": "48ebca58-60fa-4daa-a412-2f24828ead31.jpg",
+                "joined_at": 1765796159.0136247,
+                "is_muted": false,
+                "is_speaking": true,
+                "raised_hand": false
+            }
+        }
+    }
+}
