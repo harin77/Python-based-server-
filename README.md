@@ -42,7 +42,7 @@ TECHNOLOGIES USED
 - uuid
 - json
 - datetime
-  
+
 ------------------------------------------------------------
 FOLDER STRUCTURE
 ------------------------------------------------------------
@@ -65,6 +65,7 @@ Python-based-server-/
 |       +-- messages_backup.json
 |
 +-- README.txt
+
 
 ------------------------------------------------------------
 INSTALLATION & SETUP
